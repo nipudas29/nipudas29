@@ -1,5 +1,5 @@
- <h1 align="center">Hi 👋, I'm Pupu Das</h1>
-<h3 align="center">A passionate pull-stack developer from India</h3>
+ <h1 align="center">Hi 👋, I'm Nipu Das</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipudas29&label=Profile%20views&color=0e75b6&style=flat" alt="nipudas29" /> </p>
 
