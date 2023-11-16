@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CarGo**
 
-- 🌱 I’m currently learning **react.js and next.js**
+- 🌱 I’m currently learning ** next.js**
 
 - 🤝 I’m looking for help with **CarGo**
 
