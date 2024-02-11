@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nipudas29](https://github.com/nipudas29)
 
-- 💬 Ask me about **HTML,CSS and JS**
+- 💬 Ask me about **HTML,CSS and JavaScript**
 
 - 📫 How to reach me **nipuforwork3@gamil.com**
 
