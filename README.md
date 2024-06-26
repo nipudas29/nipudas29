@@ -27,5 +27,9 @@
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/nipudas) 
 
+  <img src="https://raw.githubusercontent.com/nipudas29/nipudas29/output/snake.svg" alt="Snake animation" />
+
+###
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
